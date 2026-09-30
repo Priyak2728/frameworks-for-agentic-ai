@@ -1,0 +1,2 @@
+These notes cover AWS, Machine Learning basics, and Agentic AI concepts.
+Agentic AI involves planning, acting, and decision making.

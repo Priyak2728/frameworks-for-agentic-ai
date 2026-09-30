@@ -1,0 +1,3 @@
+Project: Customer Support AI
+Uses LangChain for workflow and LlamaIndex for retrieval.
+Goal: Automate support queries.
